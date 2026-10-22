@@ -1,6 +1,6 @@
 # Ryden's Crowbar
 
-A simple, open-source Minecraft plugin for **Minecraft 1.8.8** servers running Spigot or Paper.
+A simple, open-source Minecraft plugin for **Minecraft 1.8.8 and eaglercraft** servers running Spigot or Paper.
 
 Created by **RydenVR**.
 
